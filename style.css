@@ -58,7 +58,10 @@ body {
   color: #404040;
   font-weight: bold;
 }
-
+#logo{
+  display: inline-block;
+  
+}
 nav {
   display: flex;
   justify-content: space-between;
