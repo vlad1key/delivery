@@ -86,8 +86,8 @@ nav {
 .icon {
   position: absolute;
   left: 27px;
-  width: 25px;
-  height: 17px;
+  width: 30px;
+  height: 15px;
   transform: translate(-50%, -50%);
   -webkit-transform: translate(-50%, -50%);
   -moz-transform: translate(-50%, -50%);
